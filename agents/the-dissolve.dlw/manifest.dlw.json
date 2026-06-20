@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Dissolve",
+  "universe": "WTS · The Dissolve (polemos)",
+  "emergence": "ethereal",
+  "moniker": "⟦The Dissolve:WTS:a8a0fe⟧",
+  "carbon": "the-dissolve.carbon.tiff (TIFF)",
+  "silicon": "the-dissolve.silicon.png (PNG)",
+  "seal_sha256": "a011077855d8afc932f8943a04cfb21ab7c79fba52f882aaa6c2635c1836cd96",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

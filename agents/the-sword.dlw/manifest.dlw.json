@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Sword",
+  "universe": "WTS · The Sword (polemos)",
+  "emergence": "ethereal",
+  "moniker": "⟦The Sword:WTS:cfa1f5⟧",
+  "carbon": "the-sword.carbon.tiff (TIFF)",
+  "silicon": "the-sword.silicon.png (PNG)",
+  "seal_sha256": "3ee39967b6d09a158c88a77d71d4e7254ae3264a7eec0c6c95d2dc5a2ef02fb3",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

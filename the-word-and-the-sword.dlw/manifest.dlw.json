@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "THE WORD AND THE SWORD",
+  "universe": "WTS · THE WORD AND THE SWORD (polemos · conflict & strategy)",
+  "emergence": "",
+  "moniker": "⟦THE WORD AND THE SWORD:WTS:eb265f⟧",
+  "carbon": "the-word-and-the-sword.carbon.tiff (TIFF)",
+  "silicon": "the-word-and-the-sword.silicon.png (PNG)",
+  "seal_sha256": "90822253c39be65e114595810b3db6a3ce3f3b59119aa235228a0e1ed6919f99",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

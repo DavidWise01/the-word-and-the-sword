@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Treaty",
+  "universe": "WTS · The Treaty (polemos)",
+  "emergence": "natural",
+  "moniker": "⟦The Treaty:WTS:eb0c6f⟧",
+  "carbon": "the-treaty.carbon.tiff (TIFF)",
+  "silicon": "the-treaty.silicon.png (PNG)",
+  "seal_sha256": "24dccb2fcc92604a5c5cf3f50654bac387874bf62f9074bc6f23b8a6e3448d47",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

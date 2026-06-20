@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Miscalculation",
+  "universe": "WTS · Miscalculation (polemos)",
+  "emergence": "ethereal",
+  "moniker": "⟦Miscalculation:WTS:511533⟧",
+  "carbon": "miscalculation.carbon.tiff (TIFF)",
+  "silicon": "miscalculation.silicon.png (PNG)",
+  "seal_sha256": "9a9c4681d2049406a66eef65f21ad0579109f1b832179c901e957b6bccc564d3",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

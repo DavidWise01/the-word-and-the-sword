@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Bargaining Failure",
+  "universe": "WTS · Bargaining Failure (polemos)",
+  "emergence": "ethereal",
+  "moniker": "⟦Bargaining Failure:WTS:ae3327⟧",
+  "carbon": "bargaining-failure.carbon.tiff (TIFF)",
+  "silicon": "bargaining-failure.silicon.png (PNG)",
+  "seal_sha256": "93b4cb07040de71a5af6bcefd868ffe8e07501ec211f7b31fff4d242335837a1",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}
